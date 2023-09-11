@@ -1,0 +1,10 @@
+site_name: My Docs
+
+nav: 
+- Configuration: Configuration.md
+- Documentation : Documentation.md
+- Installation: Installation.md
+- Deployment: Deployment.md
+- Theming: Theming.md
+- Home : index.md
+
